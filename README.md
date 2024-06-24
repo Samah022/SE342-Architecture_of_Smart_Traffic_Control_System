@@ -1,4 +1,4 @@
-# SE342-Architecture_of_Smart_Traffic_Control_System
+# Smart Traffic Control System 🚦
 
 <p align="justify">
 This project report describes the design and architecture of a Smart Traffic Control System
@@ -11,3 +11,10 @@ principles used, architectural patterns chosen, and decisions made to ensure qua
 were met. This section also covers the middleware and framework used and concludes with
 an evaluation of the software architecture, providing justifications for design choices
 </p>
+
+## Contributors ✍️
+
+- Malak Sabouni
+- Sana Shamma
+- Salwa Shamma
+- Samah Shamma
